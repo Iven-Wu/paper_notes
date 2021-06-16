@@ -1,0 +1,2 @@
+Two important cues for video object segementation: visual appearance and continuous motion in space.  
+Two modulators, visual modulator produces channel-wise scale parameters to adjust the weights of each channel in the feature maps.

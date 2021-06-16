@@ -1,0 +1,1 @@
+cGAN就是在GAN的本身上每次传进去一个one hot编码的label

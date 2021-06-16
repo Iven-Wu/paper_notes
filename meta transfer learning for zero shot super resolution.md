@@ -1,0 +1,3 @@
+这篇文章的idea是建立在之前的zssr上的，这里考虑的是先用一个类似pretrain的  
+首先是拿了那个DIV2K的数据集，每张图片degradation一下作为low resolution的输入，然后原图片作为high resolution的target，这里还用的是L1范数（是我没想到的）  
+然后把整个模型直接transfer一下，做meta-learning，做MAML一样的操作
